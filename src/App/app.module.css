@@ -1,0 +1,18 @@
+@import 'https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap';
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "QuickSand", sans-serif;
+}
+
+.container1 {
+  background-color: #FFE4C4;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
+.container {
+  background-color: #FFEFDD;
+  display: flex;
+}/*# sourceMappingURL=app.module.css.map */

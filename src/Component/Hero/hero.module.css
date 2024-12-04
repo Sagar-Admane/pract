@@ -1,0 +1,21 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 0px;
+  flex-wrap: wrap;
+}
+.hero .img3 {
+  width: 310px;
+}
+.hero .img3 span {
+  font-size: larger;
+  font-weight: bolder;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.btn {
+  padding: 0px 0px 50px 100px;
+  margin: 0;
+}/*# sourceMappingURL=hero.module.css.map */

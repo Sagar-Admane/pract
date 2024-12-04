@@ -1,0 +1,15 @@
+.btn {
+  padding: 20px 0px 20px 125px;
+}
+
+.container {
+  padding-top: 50px;
+  background-color: #FFEFDD;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}/*# sourceMappingURL=about.module.css.map */

@@ -1,0 +1,52 @@
+.container {
+  background-color: #FADEEA;
+}
+.container .heading {
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.container .heading .head1 {
+  background-color: #FFEFDD;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 25px;
+}
+.container .heading .head2 h1, .container .heading .head2 span {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.container .heading .head2 h1 span {
+  color: rgb(249, 106, 107);
+}
+.container .main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.container .main .main1 {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
+.container .main .mn1, .container .main .mn2 {
+  background-color: #FFEEF4;
+  border: 2px solid rgb(151, 129, 129);
+  padding: 15px;
+  border-radius: 32px;
+}
+.container .main .main3 {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+}
+.container .main .mi1, .container .main .mi2 {
+  background-color: #FFEEF4;
+  border: 2px solid rgb(151, 129, 129);
+  padding: 15px;
+  border-radius: 32px;
+}/*# sourceMappingURL=blog.module.css.map */

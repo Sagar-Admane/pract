@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    background-color: #FFEFDD;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 25px;
+    padding: -10px 0px;
+    
+
+
+    .anchor{
+        // background-color: yellow;
+        display: flex;
+        
+        a{
+            padding: 0px 25px;
+            text-decoration: none;
+            color: black;
+            font-weight: 600 ;
+            font-size: 20px;
+            text-transform: uppercase;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            button{
+                padding: 10px;
+                margin-left: 5px;
+                background-color: black;
+                color: white;
+                border: none;
+                border-radius: 12px;
+                font-size: 20px;
+            }
+        }
+    }
+}

@@ -1,0 +1,28 @@
+.container{
+    background-color: #F7E4D4;
+}
+
+.order{
+    // background-color: ;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .order1{
+        // background-color: yellow;
+        min-width: 70vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 25vh;
+        padding: 25px;
+        border-radius: 32px;
+        border: 2px solid #D3B8A1;
+    }
+}
+
+.abc{
+    padding: 50px 0px 0px 50px;
+}

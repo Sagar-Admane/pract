@@ -1,0 +1,29 @@
+.hero{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0px;
+    flex-wrap: wrap;
+
+    .img3{
+        width: 310px;
+
+        span{
+            font-size: larger;
+            font-weight: bolder;
+            text-transform: uppercase;
+            letter-spacing: 5px;
+        }
+    }
+}
+
+.btn{
+    padding : 0px 0px 50px 100px;
+    margin: 0;
+
+}
+
+.container{
+    background-color: #F7E4D4;
+    height: 80vh;
+}

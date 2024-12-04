@@ -1,0 +1,38 @@
+.container {
+  background-color: #75EBDD;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  gap: 50px;
+  font-weight: 600;
+}
+.container .AE {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20%;
+  padding-bottom: 50px;
+  border-bottom: 2px solid rgb(151, 129, 129);
+}
+.container .AE .address {
+  border-right: 2px solid rgb(159, 129, 129);
+  padding-right: 15%;
+}
+.container .AE .email {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.container .AE .email .input {
+  padding: 12px 15px;
+  width: 25em;
+  background-color: #8DF9EC;
+  border: none;
+  border-radius: 20px;
+  border: 2px solid rgb(151, 129, 129);
+}
+.container .AE .email button {
+  width: 200px;
+}/*# sourceMappingURL=footer.module.css.map */

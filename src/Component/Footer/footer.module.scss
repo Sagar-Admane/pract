@@ -1,0 +1,43 @@
+.container{
+    background-color: #75EBDD;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    gap: 50px;
+    font-weight: 600;
+
+    .AE{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 20%;
+        padding-bottom: 50px;
+        border-bottom: 2px solid #D3B8A1;
+
+        .address{
+            border-right: 2px solid #D3B8A1;
+            padding-right: 15%;
+        }
+
+        .email{
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+
+            .input{
+                padding: 12px 15px;
+                width: 25em;
+                background-color: #8DF9EC;
+                border: none;
+                border-radius: 20px;
+                border: 2px solid #D3B8A1;
+            }
+
+            button{
+                width: 200px;
+            }
+        }
+    }
+}

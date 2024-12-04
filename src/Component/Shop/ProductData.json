@@ -1,0 +1,32 @@
+[
+    {
+        "name" : "Chocolate Fudge Cake",
+        "img" : "./assets/Untitled design.png",
+        "price" : "Rs.150"
+    },
+    {
+        "name" : "Crossiant",
+        "img" : "./assets/crossiant.png",
+        "price" : "Rs.80"
+    },
+    {
+        "name" : "Sourdough Bread",
+        "img" : "./assets/bread.png",
+        "price" : "Rs.40"
+    },
+    {
+        "name" : "Baguette",
+        "img" : "./assets/Baguette.png",
+        "price" : "Rs.30"
+    },
+    {
+        "name" : "Cup Cake",
+        "img" : "./assets/cupcake.png",
+        "price" : "Rs.50"
+    },
+    {
+        "name" : "Cookies",
+        "img" : "./assets/COOk.png",
+        "price" : "Rs.70"
+    }
+]
